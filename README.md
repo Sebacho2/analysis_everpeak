@@ -6,7 +6,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak_analysis.ipynb`
+- `notebooks/everpeak-analysis.ipynb`
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## 🧠 Objetivo del análisis
